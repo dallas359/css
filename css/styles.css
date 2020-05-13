@@ -1,0 +1,100 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Jura', sans-serif;
+  font-size: 24px;
+}
+
+h1 {
+  font-family: 'Russo One', sans-serif;
+  color: #95389e;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+  font-size: 562.5%;
+}
+
+h2 {
+  font-family: 'Lekton', sans-serif;
+  color: #512b58;
+  font-size: 2.5rem;
+  font-weight: normal;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Lekton', sans-serif;
+  color: #af8baf;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 75px;
+  background-color: #f0f0f0;
+}
+
+.middle-container {
+  background-color: #dae1e7;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bottom-container {
+  background-color: #f0f0f0;
+  padding: 25px;
+}
+
+.rus {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 30px;
+}
+
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.profilepic {
+  width: 10%;
+  border-radius: 75%;
+}
+
+.gunpic {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.vehiclepic {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #95389e;
+  border-width: 8px;
+  width: 75px;
+}
+
+a {
+  color: #af8baf;
+}
+
+.mailpic {
+  width: 5%;
+}
