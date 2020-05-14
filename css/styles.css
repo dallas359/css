@@ -3,6 +3,7 @@ body {
   text-align: center;
   font-family: 'Jura', sans-serif;
   font-size: 24px;
+  color: #584153;
 }
 
 h1 {
@@ -93,6 +94,11 @@ hr {
 
 a {
   color: #af8baf;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
 }
 
 .mailpic {
@@ -109,4 +115,8 @@ a {
 
 .contact-me {
   padding-top: 50px;
+}
+
+.copyright {
+  color: #af8baf;
 }
